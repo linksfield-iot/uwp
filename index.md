@@ -14,6 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Package 1.1.2
 ### Enterprise 1.1.3
 ### Contract 1.1.4
+![Image](uwp/bip_bsnl.jpg)
 
 
 ```markdown
@@ -33,7 +34,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](src)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
