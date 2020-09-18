@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Unified Work Platform 1
 ## Operation Management System 1.1
+{: .label .label-blue }
 ### Order 1.1.1
 ### Package 1.1.2
 ### Enterprise 1.1.3
