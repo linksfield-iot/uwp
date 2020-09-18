@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## Operation Management System 1.1
 {: .label .label-blue }
 ### Order 1.1.1
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ### Package 1.1.2
 ### Enterprise 1.1.3
 ### Contract 1.1.4
